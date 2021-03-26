@@ -1,2 +1,2 @@
-# AngryBirdsStage3
+# AngryBirds
 Angry Birds: Final
